@@ -4,6 +4,8 @@ Bu basit PHP ve MySQL tabanlı ezber yardım sitesi, hafıza kartları oluşturm
 
 ## Kullanım
 
+![örnek](https://github.com/fbturan/Anki/assets/93981924/76b41e25-c33c-4819-83ce-1a971bd90a97)
+
 1. **Projeyi Başlatma:**
    - Dosyaları bir PHP destekli web sunucusunda çalıştırın.
 
