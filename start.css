@@ -1,0 +1,47 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: 0;
+}
+
+body{
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	row-gap: 20px;
+}
+
+.btnDown {
+	display: flex;
+	column-gap: 10px;
+}
+
+.btnDown > button, #redirectForm > input[type="submit"] {
+	padding: 3px;
+	border-radius: 5px;
+}
+
+#frontFace{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width:100%;
+	height:100%;
+	background-color:rgb(255, 228, 233);
+	border-radius: 5px;
+}
+
+
+#backFace{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width:100%;
+	height:100%;
+	display:none;
+	border-radius: 5px;
+	background-color:rgb(255, 166, 181);
+}

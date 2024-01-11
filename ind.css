@@ -1,0 +1,41 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: 0;
+}
+
+body{
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	row-gap: 20px;
+}
+
+div {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	row-gap: 10px;
+}
+
+ul {
+	display: flex;
+	flex-direction: column;
+	row-gap: 5px;
+}
+
+li {
+	display: flex;
+	column-gap: 8px;
+}
+
+
+button {
+	background-color: rgb(209, 209, 209);
+	padding: 3px;
+	border-radius: 5px;
+}
