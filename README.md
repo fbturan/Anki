@@ -16,16 +16,14 @@ Bu basit PHP ve MySQL tabanlı ezber yardım sitesi, hafıza kartları oluşturm
 4. **Hafıza Kartları Ekleyip Oyun Oynama:**
    - Destenin içine 'Add Card' ile ön yüz ve arka yüz olacak şekilde hafıza kartlarınızı ekleyin.
    - Seçilen destenin yanındaki 'Start' ile hafıza oyununa başlayın.
-
-5. **Hafıza Oyunu Kuralları:**
    - Kartın ön yüzüne tıklanırsa, kart bilinmedi varsayılıp destede tutulur.
    - Üzerine tıklanmazsa kart bilindi varsayılıp desteden çıkarılır.
    - 'SKIP' ile bilinmeyen kart kalmayana kadar devam eder.
-
-6. **Oyunu Tamamlama ve İlerlemeyi Sıfırlama:**
+     ![ezgif com-animated-gif-maker-2](https://github.com/fbturan/Anki/assets/93981924/7d8a9392-fbbb-431c-a20d-d433b4d2d2a3)
+5. **Oyunu Tamamlama ve İlerlemeyi Sıfırlama:**
    - 'FINISH' tuşuna basıldığında ana ekrana yönlendirilir, ilerleme sıfırlanır.
 
-7. **Desteyi Silme:**
+6. **Desteyi Silme:**
    - Anasayfadaki 'Delete Deck' ile oluşturulan deste silinir.
 
 
