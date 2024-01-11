@@ -4,8 +4,6 @@ Bu basit PHP ve MySQL tabanlı ezber yardım sitesi, hafıza kartları oluşturm
 
 ## Kullanım
 
-![örnek](https://github.com/fbturan/Anki/assets/93981924/76b41e25-c33c-4819-83ce-1a971bd90a97)
-
 1. **Projeyi Başlatma:**
    - Dosyaları bir PHP destekli web sunucusunda çalıştırın.
 
@@ -14,6 +12,7 @@ Bu basit PHP ve MySQL tabanlı ezber yardım sitesi, hafıza kartları oluşturm
 
 3. **Hafıza Kartı Destesi Oluşturma:**
    - Hafıza kartı destesi oluşturun.
+     ![anki](https://github.com/fbturan/Anki/assets/93981924/76b41e25-c33c-4819-83ce-1a971bd90a97)
 
 4. **Hafıza Kartları Ekleyip Oyun Oynama:**
    - Destenin içine 'Add Card' ile ön yüz ve arka yüz olacak şekilde hafıza kartlarınızı ekleyin.
