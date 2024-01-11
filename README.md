@@ -28,6 +28,4 @@ Bu basit PHP ve MySQL tabanlı ezber yardım sitesi, hafıza kartları oluşturm
 7. **Desteyi Silme:**
    - Anasayfadaki 'Delete Deck' ile oluşturulan deste silinir.
 
-## Ekran Görüntüleri
-
 
